@@ -1,3 +1,5 @@
+apt install llvm librust-clang-sys-dev rocksdb-tools
+
 # TarasNabad
 [WIP] Multi threaded Key/Value storage in Rust.
 
